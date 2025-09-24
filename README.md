@@ -12,6 +12,6 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
 
 In your solution you must provide the following in your Github link account:
 
-  <p>Problem statement (description of the problem. Just copy what is stated here.<br>
+  <p>Problem statement (description of the problem. Just copy what is stated here.
   </p>UML Class Diagram
   </p>Uploaded java codes for the solution.
